@@ -8,12 +8,15 @@
 💬 문의 환영: 백엔드 관련, 협업 </p>
 <p align="center">  
 📫 연락처
-  <a href="mailto:groupip98@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  
+ <a href="mailto:groupip98@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://blog.naver.com/zzionkk">
-    <img src="https://img.shields.io/badge/Blog-0A66C2?style=flat&logo=blogger&logoColor=white" alt="Blog"/>
+  <a href="https://velog.io/@bluesubmarine98/posts" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white" alt="Velog" />
   </a>
+</p>
+
  </p>
 
 <p align="center">  
