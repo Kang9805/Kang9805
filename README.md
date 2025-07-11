@@ -12,9 +12,10 @@
  <a href="mailto:groupip98@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://velog.io/@bluesubmarine98/posts" target="_blank">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white" alt="Velog" />
-  </a>
+<a href="https://yyyeoni.tistory.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Tistory-FF5C00?style=flat&logo=rss&logoColor=white" alt="Tistory" />
+</a>
+
 </p>
 
  </p>
